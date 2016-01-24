@@ -1,0 +1,423 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    letter-spacing: 0.5px;
+}
+header{
+    height: 80px;
+    width: 100%;
+    left: 0;
+    top: 0;
+    position: fixed;
+    background-color: white;
+    box-shadow: 0 2px 0 gainsboro;
+}
+
+.f1{
+    padding-top: -5px;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid;
+    margin-top: -11px;
+    margin-left: 80px;
+    display: block;
+    margin-top: -11px;
+    opacity: .9;
+}
+
+.f2{
+    padding-top: -5px;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid;
+    margin-top: -11px;
+    margin-left: 68px;
+    display: block;
+    opacity: .9;s 
+}
+
+.f3{
+    padding-top: -5px;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid;
+    margin-top: -11px;
+    margin-left: 50px;
+    display: block;
+    opacity: .9;s 
+}
+
+.nav1 {
+    list-style: none;
+    margin-left: 800px;
+    
+}
+
+.nav1 ul{
+    list-style: none;
+    float: left;
+}
+
+.nav1 ul li{
+    font-weight: bold;
+    text-decoration: none;
+    padding-top: 15px;
+    color: #757575;
+    float: left;
+    margin-right: 30px;
+    letter-spacing: 0.5px;
+    font-size: 14px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;  
+    color:#757575;
+}
+
+.nav1:hover ul li {color:#6ab344;}
+
+header img{
+  padding-top: 10px;    
+}
+
+.imga{
+  height: 28px;
+  display: block;
+  padding: 25px;
+  float: left;
+}
+
+.sec1{
+   background-image: url("E:/Proyectos/02-Android/Imgs/spotlight-stories-1024.jpg");
+   background-size: cover;
+   display: block;
+    height: 90px;
+    margin: 0 auto;9
+    background-position: center center;
+    background-size: cover;
+    padding-bottom: 40%;    
+        
+}
+
+.img1{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 300px;
+      padding-top: 80px;
+}
+
+.btn{
+    text-decoration: none;
+    box-sizing: border-box;
+    background: #fc0e1a;
+    color: white;
+    padding: 0 1.3em;
+    line-height: 3em;
+    display: inline-block;
+    border-radius: .3em;
+    border-bottom-width: 1.2px;
+    margin-left: 615px;
+    font-size: 14px;
+    margin-top: -20px;
+}
+
+.p1{
+    color: white;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 22px;
+    height: 96px;
+    line-height: 32px;
+    text-align: center;
+    width: 320px;
+    display: block;
+    font-weight: 100;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:-40px;
+    letter-spacing: 0.5px;
+}
+
+.sec2{
+    height: 80px;
+    border-bottom: 1px solid #dcdcdc;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(220, 220, 220);
+}
+
+.img2{
+    padding: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sec3{
+    height: 220px;
+}
+
+.hh2{
+    padding-top: 50px;
+    text-align: center;
+    color: #333333;
+    display: block;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 40px;
+    line-height: 40px;
+    font-weight: 300;
+}
+
+.p3{
+    text-align: center;
+    color: #333333;
+    display: block;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    width: 510px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.sec4{
+   height: 540px;
+}
+
+.imgs4{
+    padding-top: 120px;
+    margin-left: 35px;
+    float: right;
+}
+.imgs4 img{
+    margin-left: 30 px;
+    padding-left: 50px;
+}
+
+.p4 p{
+    color: rgb(106, 179, 68);
+    font-weight: bold;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    float: left;
+}
+
+.p41{
+    padding-left: 10px;
+    margin-left: 140px;
+}
+
+.p42{
+    padding-right: 20px;
+     margin-left: 70px;
+}
+
+.p43{
+     padding-right: 1px;
+     margin-left: 60px;
+}
+
+
+.p44{
+    padding-right: 10px;
+    margin-left: 180px;
+}
+
+.p45{
+    padding-right: 20px;
+    margin-left: 250px;
+}
+
+.sec5{
+    background-image: url("E:/Proyectos/02-Android/Imgs/wear3-1024.png");
+    background-position: center center;
+    background-size: cover;
+    padding-bottom: 40%;
+}
+
+.sec6{
+    background-color: #455a64;
+    background-position: center center;
+    background-size: cover;
+    height: 220px;
+    margin-top: -35px;
+}
+
+.hh6{
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 40px;
+    line-height: 40px;
+    color: white;
+    padding-top: 25px;
+    margin-left: 150px;
+    font-weight: normal;
+}
+
+.p6{
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 24px;
+    color: white;
+    margin-left: 150px;
+    width: 800px;
+}
+
+.p6_2{
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 40px;
+    color: white;
+    font-weight: normal;
+    margin-left: 150px;
+    width: 800px;
+    color:  #64ffda;
+}
+
+.hh3{
+    padding: 30px;
+}
+
+.sec7{
+    height: 230px;
+}
+
+.p7{
+    text-align: center;
+    color:#6ab344;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+    width: 510px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imd{
+    width: 100%;
+    
+}
+
+.sec8{
+   height: 600px;
+   margin-left: 80px;
+}
+
+.sec8 img{
+    width: 100%;
+}
+.p8{
+    font-size: 40px;
+    padding-top: 30px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    margin-left: 90px;
+}
+
+
+.p8_1{
+    font-size: 14px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    color: #212121; 
+    line-height: 24px;
+    letter-spacing: .8px;
+    margin-left: 10px;
+}
+
+.p8_2{
+    color: #6ab344;
+    font-size: 14px;
+    padding-top: 40px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.se1{
+    width: 300px;
+    float: left;
+    margin-left: 60px;
+    border: 1px solid gainsboro;
+    box-shadow: 0 3px 0 gainsboro;
+}
+
+.se2{
+    width: 300px;
+    float: left;
+    margin-left: 60px;
+    border: 1px solid gainsboro;
+    box-shadow: 0 3px 0 gainsboro;
+}
+.se3{
+    width: 300px;
+    float: left;
+    margin-left: 60px;
+    border: 1px solid gainsboro;
+    box-shadow: 0 3px 0 gainsboro;
+}
+
+.sec9{
+    height: 240px;
+}
+
+
+.p9{
+    color: #757575;
+    float: right;
+    margin-right: 10px;
+    font-size: 14px;
+    padding-top: 18px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.img9{
+    padding-top: 35px;
+    float: right;
+    margin-right: 30px;
+}
+
+.imgs{
+    padding-top: 65px;
+    margin-left: 35px;
+}
+.imgs img{
+    margin-left: 10px;
+}
+
+.p9_2{
+    color: #757575;
+    font-size: 13px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;   
+    line-height: 24px;
+    margin-left: 45px;
+    padding-top: 20px;
+}
+
+footer{
+    background-color: gainsboro;
+    height: 90px;
+}
+
+.imgf{
+    padding: 30px;
+    margin-left: 12px;
+    float: left;
+}
+
+.nav2 {
+    list-style: none;
+}
+
+.nav2 ul{
+    list-style: none;
+    float: left;
+}
+
+.nav2 ul li{
+    text-decoration: none;
+    padding-top: 20px;
+    color: #757575;
+    float: left;
+    margin-right: 80px;
+    font-size: 14px;
+    margin-left: -40px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;  
+}
+
+
